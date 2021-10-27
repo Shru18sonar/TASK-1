@@ -1,6 +1,8 @@
 # TASK-1   LGMVIP-WEBDEVLOPMENT
 TASK 1
-Task-1- Single page website
+LGMVIP-TASK-1
+WEB DEVELPMENT VIRTUAL INTERNSHIP PROGRAM BY LETS GROW MORE
+Single page website
 
 Tech stacks used:
 
