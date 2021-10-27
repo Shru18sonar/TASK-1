@@ -8,4 +8,4 @@ HTML
 
 CSS
 
-
+file:///C:/Users/SHRUTI/Desktop/educational%20website/home%20.html
